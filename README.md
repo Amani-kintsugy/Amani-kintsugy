@@ -1,7 +1,7 @@
 <h1 align="center">Hi✨️, I'm Amani</h1>
 
 <h3 align="center">A passionate,self-taught developer from Tunisia</h3>
-<img align ="right" alt="coding" width="400 src="https://images.app.goo.gl/Aqc4oKfV1DDKzWFW9">
+<img align ="right" alt="coding" width="400 src="https://pin.it/5TfJyLP">
 - 🔭 I’m currently working on **Improving my development skills**
 
 - 🌱 I’m currently learning **Java, python and everything about APIs**
