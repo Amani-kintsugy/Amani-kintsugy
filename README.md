@@ -1,8 +1,7 @@
 <h1 align="center">Hi✨️, I'm Amani</h1>
 
 <h3 align="center">A passionate,self-taught developer from Tunisia</h3>
-<image align ="right" alt="coding" width="400 src="https://www.google.com/search?q=gif+programmer+girl&tbm=isch&ved=2ahUKEwjo0eP8wtD6AhUUOuwKHV83Bo0Q2-cCegQIABAC&oq=gif+programmer+girl&gs_lcp=ChJtb2JpbGUtZ3dzLXdpei1pbWcQAzIGCAAQHhAIMgUIABCiBDIFCAAQogQyBQgAEKIEOgQIIxAnOgYIABAeEAc6BAgAEB46BggAEB4QBVCNCFjqEGDPE2gAcAB4AIABzAKIAewLkgEHMC4xLjMuMpgBAKABAcABAQ&sclient=mobile-gws-wiz-img&ei=Ml5BY-jwKZT0sAff7pjoCA&bih=729&biw=384&client=ms-android-samsung-ss&prmd=ivsn#imgrc=NLicAky4OKrdqM>
-
+<img align ="right" alt="coding" width="400 src="https://images.app.goo.gl/Aqc4oKfV1DDKzWFW9">
 - 🔭 I’m currently working on **Improving my development skills**
 
 - 🌱 I’m currently learning **Java, python and everything about APIs**
